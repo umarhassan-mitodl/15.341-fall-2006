@@ -289,7 +289,7 @@ External perspective on teams
 {{< tdopen >}}
 
 
-Bresman, Henrik. "{{% resource_link "455e8499-b8bf-4513-a4b8-68bfcd545573" "Lessons Learned and Lessons Lost: A Multi-method Field Study of Vicarious Team Learning Behaviour and Performance" %}}." INSEAD Working Paper, 2006.
+Bresman, Henrik. "[Lessons Learned and Lessons Lost: A Multi-method Field Study of Vicarious Team Learning Behaviour and Performance](http://knowledge.insead.edu/abstract.cfm?ct=16812)." INSEAD Working Paper, 2006.
 
 Ancona, G. Deborah, and David F. Caldwell. "Bridging the Boundary: External Activity and Performance in Organizational Teams." _Administrative Science Quarterly_ 37, no. 4 (1992): 634-661.
 
@@ -412,7 +412,7 @@ Beer, M. "Transforming Organizations: Embrace the Paradox of E and O." In _Handb
 
 Robertson, J. Peter, Darryl R. Roberts, and Jerry I. Porras. "Dynamics of Planned Organizational Change: Assessing Empirical Support for a Theoretical Model." _Academy of Management Journal_ 36, no. 3 (1993): 619-634.
 
-Kleiner, Art. "{{% resource_link "fc8c374e-c523-44b8-b40c-374c0ac08be2" "Climbing to Greatness with Jim Collins" %}}." _Strategy+Business_ (Fourth Quarter, 2001): 1-11.
+Kleiner, Art. "[Climbing to Greatness with Jim Collins](http://www.strategy-business.com/article/14367?gko=63ad3)." _Strategy+Business_ (Fourth Quarter, 2001): 1-11.
 
 Liker, K. Jeffrey, and James M. Morgan. "The Toyota Way in Services: The Case of Lean Product Development." _Academy of Management Perspectives_ 20, no. 2 (2006): 5-20.
 
